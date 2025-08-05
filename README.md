@@ -69,6 +69,20 @@ projeto_requests/
    python src/main.py
    ```
 
+## Visualizações
+
+### Gráficos de Linguagens em Big Techs
+
+![Print do gráfico AMAZON](images/grafico_pizza_amazon.png)
+
+
+![Print do terminal rodando o script](images/grafico_pizza_airbnb.png)
+
+### Visualização do terminal rodando o script.
+
+![Print do terminal rodando o script](images/Screenshot.png)
+
+
 ## Como Contribuir
 
 Contribuições são super bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas funcionalidades.

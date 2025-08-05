@@ -1,6 +1,6 @@
-from src.dados_repos import DadosRepositorios
-from src.cria_repositorios import CriaRepositorios
-from src.utils import gera_grafico_pizza
+from dados_repos import DadosRepositorios
+from cria_repositorios import CriaRepositorios
+from utils import gera_grafico_pizza
 import os
 from dotenv import load_dotenv
 
